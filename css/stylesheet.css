@@ -19,12 +19,12 @@ body, html{
 }
 
 .pimg1{
-	background-image: url('../img/img2.JPG');
+	background-image: url('../img/img2.jpg');
 	min-height: 100%;
 }
 
 .pimg2{
-	background-image: url('../img/gesture.JPEG');
+	background-image: url('../img/gesture.jpeg');
 	min-height: 400px;
 
 	background-attachment: scroll;
